@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:00:57.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.9" etag="GaLbc9j5TpicjEAsJ1gq" type="github"><diagram id="ftsV1FRgqZV6eg8ztTbC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:06:15.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="x5Da0Ed90XzckIgBRBBh" version="13.10.9" type="github">
+  <diagram id="ftsV1FRgqZV6eg8ztTbC" name="Page-1">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Op2Fik1vuCiL9oBFI_Vi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Op2Fik1vuCiL9oBFI_Vi-1" target="Op2Fik1vuCiL9oBFI_Vi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Op2Fik1vuCiL9oBFI_Vi-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Webpack构建&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Op2Fik1vuCiL9oBFI_Vi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Op2Fik1vuCiL9oBFI_Vi-3" target="Op2Fik1vuCiL9oBFI_Vi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Op2Fik1vuCiL9oBFI_Vi-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;静态资源产物上传到CDN&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Op2Fik1vuCiL9oBFI_Vi-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;保存产物链接到数据库到&lt;br&gt;plum_render表中&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
